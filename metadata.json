@@ -1,0 +1,6 @@
+{
+  "name": "DineDesk - Restaurant Ordering & Table Management",
+  "description": "Next-generation restaurant ordering and table management system supporting online orders, digital menus, real-time kitchen live dispatch, table reservations, and seamless payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
